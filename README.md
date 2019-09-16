@@ -12,7 +12,8 @@ if you are planning to use Selenium.
 
 The binary will be at `/app/vendor/firefox/firefox`.
 
-You will also need to have `heroku-community/apt` buildpack in order
+You will also need to have [`heroku-community/apt`](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-apt)
+buildpack in order
 to install all libraries required by Firefox:
 
 ```bash
