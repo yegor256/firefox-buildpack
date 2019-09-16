@@ -1,3 +1,6 @@
+[![Hits-of-Code](https://hitsofcode.com/github/yegor256/firefox-buildpack)](https://hitsofcode.com/view/github/yegor256/firefox-buildpack)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/firefox-buildpack/blob/master/LICENSE.txt)
+
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks)
 with Firefox 68.0.2.
 
